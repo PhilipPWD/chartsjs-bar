@@ -21,7 +21,7 @@ $(document).ready(function() {
     {
       column: 'learner',
       name: 'Learners',
-      color: 'blue'
+      color: '#0078c8'
     }
   ];
 
